@@ -1,7 +1,0 @@
-#paragraph
-align=center
-text=TEST
-
-#crafting
-slot-1={id:"minecraft:gold_ingot",Count:1}
-result={id:"minecraft:golden_nugget",Count:1}
