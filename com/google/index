@@ -4,5 +4,5 @@ text=GOOGLE TEST
 padding=10
 
 #crafting
-slot-1={id:"minecraft:golden_ingot",Count:1}
+slot-1={id:"minecraft:gold_ingot",Count:1}
 result={id:"minecraft:golden_nugget",Count:1}
