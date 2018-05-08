@@ -1,5 +1,8 @@
 #paragraph
 align=center
 text=GOOGLE TEST
-image=https://www.google.com.eg/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 padding=10
+
+#crafting
+slot-1=minecraft:gold_ingot
+slot-result=minecraft:gold_nuget
