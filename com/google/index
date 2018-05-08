@@ -1,7 +1,6 @@
 #paragraph
 align=center
-text=GOOGLE TEST
-padding=10
+text=TEST
 
 #crafting
 slot-1={id:"minecraft:gold_ingot",Count:1}
